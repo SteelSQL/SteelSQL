@@ -68,6 +68,18 @@ SteelSQL is designed to enhance your database management experience. No more str
 
 Ready to elevate your database management? Experience the power, flexibility and efficiency of SteelSQL. Sign up for a free trial and learn how SteelSQL can change your data management journey and enable you to achieve more than ever before. Let's build the future of data together!
 
+## Information Collection and Use
+
+There are only two ways to communicate externally with SteelSQL.
+
+Checking version information and getting subscription information, this is done by getting a static .json file, the request parameter only contains OS related information such as language, locale, platform, CPU arch, no user related data, it is only used for developer's statistic use, not provided to third party.
+
+SteelSQL uses [Electron crashReporter](https://www.electronjs.org/docs/latest/api/crash-reporter) to get crash data for bug fixing, the data is not provided to third party 
+
+If you downloaded SteelSQL via the Mac App Store, it's possible that the standard data and/or crash reports could be sent back to Apple, or possibly shared with me if you have App Analytics sharing enabled, but I haven't seen that happen yet.
+
+
+
 ## Contact
 
 For support and inquiries, please contact us at [biz@steelsql.com](mailto:biz@steelsql.com).
