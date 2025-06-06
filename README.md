@@ -31,7 +31,7 @@ SteelSQL is free and has no limit on trial time
 We would be thrilled if you purchased a license to support development!
 </h3>
 <p align="center">
-<a href="#">    
+<a href="https://apps.apple.com/us/app/steelsql/id6464395288" target="_blank">    
 <!-- <img src="assets/mac.svg"  height="30px"> -->
 Download from Apple app stroe
 </a> 
@@ -70,15 +70,11 @@ Ready to elevate your database management? Experience the power, flexibility and
 
 ## Information Collection and Use
 
-There are only two ways to communicate externally with SteelSQL.
+Only necessary information is collected and will not be provided to third parties. For details, please refer to
 
-Checking version information and getting subscription information, this is done by getting a static .json file, the request parameter only contains OS related information such as language, locale, platform, CPU arch, no user related data, it is only used for developer's statistic use, not provided to third party.
+[Privacy Policy](https://steelsql.com/policy)
 
-SteelSQL uses [Electron crashReporter](https://www.electronjs.org/docs/latest/api/crash-reporter) to get crash data for bug fixing, the data is not provided to third party 
-
-If you downloaded SteelSQL via the Mac App Store, it's possible that the standard data and/or crash reports could be sent back to Apple, or possibly shared with me if you have App Analytics sharing enabled, but I haven't seen that happen yet.
-
-
+[Terms of Use](https://steelsql.com/legal)
 
 ## Contact
 
